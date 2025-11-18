@@ -18,3 +18,4 @@ oprofile_data
 # Common IDEs
 /.vscode
 /.idea
+process-repo.log
